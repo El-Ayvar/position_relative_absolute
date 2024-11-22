@@ -1,0 +1,17 @@
+.gato {
+    position: absolute;
+    top: 180px;
+}
+
+
+.gorrito {
+    position: absolute;
+    width: 210px; 
+    height: 200px;
+    top: 30px;
+    left: 140px;
+}
+
+.contenedor {
+    display: flex;
+}
